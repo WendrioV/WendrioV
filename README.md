@@ -45,6 +45,7 @@ Autodidata
 Quanto aos idiomas, sou fluente em português e possuo inglês avançado.
 
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Wendrio%20Vale-3584cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/wendriovale/)](https://www.linkedin.com/in/wendriovale/) 
 
  ![Snake animation](https://github.com/WendrioV/WendrioV/blob/output/github-contribution-grid-snake.svg)
