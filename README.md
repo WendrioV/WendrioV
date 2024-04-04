@@ -6,7 +6,7 @@
 
 🌐 Tenho experiência em trabalhar com Google Analytics e Google Tag Manger, na implementação de tags e manutenção da plataforma do google analytics<br>
 
-🎲 Trabalho atualmente em uma consultoria focada em Web analytics <br>
+🎲 Trabalho atualmente em uma consultoria focada em Web Analytics <br>
 📚 Sou formado em Defesa Cibernética pela instituição de ensino FIAP <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para wendriofelipev@gmail.com <br>
 Sobre mim:
