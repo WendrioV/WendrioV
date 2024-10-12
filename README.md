@@ -11,7 +11,7 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para wendriofelipev@gmail.com <br>
 Sobre mim:
 
-Olá! Meu nome é Wendrio, tenho 21 anos e sou um entusiasta de Data & Analytics. Atualmente, trabalho na área de Google Analytics e GTM, onde busco extrair insights valiosos para impulsionar o desempenho de negócios online. Além disso, estou mergulhado nos estudos da Engenharia de dados, explorando áreas Banco de dados, Python e arquiteturas.
+Olá! Meu nome é Wendrio, tenho 21 anos e sou um entusiasta de Data & Analytics. Atualmente, trabalho na área de Google Analytics e GTM, onde busco extrair insights valiosos para impulsionar o desempenho de negócios online. Além disso, estou mergulhado nos estudos da Engenharia de dados, explorando áreas como Banco de dados, Python e arquiteturas.
 
 <br>
 
@@ -37,10 +37,15 @@ PHP
 ### Soft Skills:
 
 Comunicativo
+<br>
 Trabalho em equipe
+<br>
 Proatividade
+<br>
 Senso de liderança
-Aprendo muito rápido
+<br>
+rápido aprendizado
+<br>
 Autodidata
 <br>
 
