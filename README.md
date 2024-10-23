@@ -17,7 +17,7 @@ Olá! Meu nome é Wendrio, tenho 21 anos e sou um entusiasta de Data & Analytics
 
 ### Hard Skills:
 
-Python (pandas, numpy)
+Python (pandas, numpy,pyspark,hadoop)
 <br>
 SQL
 <br>
@@ -31,7 +31,9 @@ Linux
 <br>
 PHP
 <br>
-
+Apache airflow
+<br>
+AWS
 <br>
 
 ### Soft Skills:
